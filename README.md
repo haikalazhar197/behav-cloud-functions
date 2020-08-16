@@ -17,7 +17,7 @@ This is a set of cloud functions to manage users data on the behav web app
 2. Clone this repo
 
 ```sh
-$ git clone https://github.com/haikalazhar197/online-to-do-cloud-functions.git
+$ git clone https://github.com/haikalazhar197/behav-cloud-functions.git
 ```
 
 3. Ensure firebase cli installed
